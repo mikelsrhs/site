@@ -1,0 +1,11 @@
+body {
+  background-color: lightblue;
+}
+td {
+  width: 400px;
+  height: 250px;
+  border: 2px solid white;
+  background-color: pink;
+  padding: 10px;
+font-family: 'Sniglet', cursive;
+}
