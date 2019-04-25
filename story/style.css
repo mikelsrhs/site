@@ -1,0 +1,30 @@
+body {
+  background-color: lightblue;
+}
+p {
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+    font-size: 28pt;
+}
+
+td {
+width: 400px;
+height: 300px;
+padding: 50px;
+text-align: center;
+}
+
+h1{
+  text-align: center;
+  font-size: 35pt;
+font-family: 'Acme', sans-serif;
+}
+li{
+  font-size: 20pt;
+  font-family: 'Gloria Hallelujah', cursive;
+}
+
+image{
+  margin-left: auto;
+  margin-right: auto;
+}
